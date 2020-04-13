@@ -1,3 +1,5 @@
+# MONABUS, A Business Simulation Exercise, in JavaScript
+
 In 1966, Walter Lewis Brown wrote his master's thesis at the University of Montana, in which he describes his management game MONABUS. The exact citation is:
 
 - Brown, Walter L., MONABUS - A Business Simulation Exercise, Master's thesis, University of Montana, USA, 1966.
